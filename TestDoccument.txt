@@ -1,4 +1,8 @@
 Welcome to github
 Hello java developers
 Hello Developer
+<<<<<<< HEAD
 Vamsi 
+=======
+Venkatesh Tanneeru
+>>>>>>> bcaca3ad2f79655b6792aa8591a29b19b32030b1
